@@ -4,9 +4,6 @@
 
 I'm a backend developer who wants to learn properly, even if it's a little slow.
 
-My motto is '<strong>Let those who worked with me remember me as a good person</strong>'.
-
-
 ## Skills
 - Language
   - Java 
