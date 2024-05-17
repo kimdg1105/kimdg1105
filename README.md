@@ -1,6 +1,8 @@
 # Hi there 👋
 
-[![Dongguri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdg1105&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdg1105&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Dongguri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdg1105&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdg1105&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I'm a backend developer who wants to learn properly, even if it's a little slow.
 
