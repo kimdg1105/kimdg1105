@@ -48,8 +48,6 @@ I'm a backend developer who wants to learn properly, even if it's a little slow.
 
 
 
-## Additional Info
-- 🌱 I’m currently interested in: EDA, LLM serving, Flutter(just a little)
 
 
 ### 📫 How to reach me: kimdg1105@gmail.com
