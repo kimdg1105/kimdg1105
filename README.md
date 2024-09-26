@@ -3,6 +3,14 @@
 [![Dongguri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdg1105&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdg1105&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kimdg1105"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 I'm a backend developer who wants to learn properly, even if it's a little slow.
 
@@ -42,7 +50,7 @@ I'm a backend developer who wants to learn properly, even if it's a little slow.
 
 
 ## Careers
-- Bachelor's degree: (2016.03 ~ 2022.02) Hanyang Univ at ERICA
+- (2016.03 ~ 2022.02) Hanyang Univ at ERICA
 - Intern: (2021.07 ~ 2022.01) SK Planet
 - Has worked as: (2022.01 ~ ) SK Planet
 
